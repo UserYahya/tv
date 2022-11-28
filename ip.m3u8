@@ -1,26 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1, Gazi TV potato 2
+#EXTINF:-1, Gazi TV 2 potato
 
 http://23.255.0.10:100/hls/1.m3u8
 
-#EXTINF:-1, Gaan Bangla
+#EXTINF:-1, Gaan Bangla potato
 
 http://23.255.0.10:100/hls/netscope-2.m3u8
 
-#EXTINF:-1, DBC
+#EXTINF:-1, DBC potato
 
 http://23.255.0.10:100/hls/netscope-3.m3u8
 
-#EXTINF:-1, Somoy TV
+#EXTINF:-1, Somoy TV potato
 
 http://23.255.0.10:100/hls/netscope-4.m3u8
 
-#EXTINF:-1, Star Jalsha
+#EXTINF:-1, Star Jalsha potato
 
 http://23.255.0.10:100/hls/3.m3u8
 
-#EXTINF:-1, Ten Sports HD
+#EXTINF:-1, Ten Sports HD potato
 
 http://23.255.0.10:100/hls/4.m3u8
 
