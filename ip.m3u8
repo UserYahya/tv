@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, Gazi TV potato 2
+#EXTINF:-1, T Sports potato
 http://23.255.0.10:100/hls/1.m3u8
+
+#EXTINF:-1, Gazi TV potato
+http://23.255.0.10:100/hls/netscope-1.m3u8
 
 #EXTINF:-1, Gaan Bangla potato
 http://23.255.0.10:100/hls/netscope-2.m3u8
@@ -62,9 +65,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1, Makkah Live
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-
-#EXTINF:-1, Gazi TV potato
-http://23.255.0.10:100/hls/netscope-1.m3u8
 
 #EXTINF:-1, Star Sports 1 potato
 http://23.255.0.10:100/hls/2.m3u8
